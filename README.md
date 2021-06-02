@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 An working example of the GStreame 1.18.4.<br/>
 It works on a Raspberry Pi with an 32 or 64-bits OS.<br/>
-If you want to use the new 32-bits rpicamsrc see https://github.com/Qengineering/GStreamer-1.18.4-RPi_32-bits <br/>
+If you want to use the new 32-bits **rpicamsrc** see https://github.com/Qengineering/GStreamer-1.18.4-RPi_32-bits <br/>
 
 ------------
 
