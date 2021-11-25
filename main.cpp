@@ -1,6 +1,6 @@
 #include <opencv2/opencv.hpp>
 
-/// For the Raspberry Pi 64-bit OS Buster
+/// For the Raspberry Pi 64-bit Buster OS
 
 std::string gstreamer_pipeline(int device, int capture_width, int capture_height, int framerate, int display_width, int display_height) {
     return
