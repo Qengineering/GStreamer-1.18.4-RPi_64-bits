@@ -55,3 +55,8 @@ As long it's a valid combination, it will work. For instance:<br/>
 ```
 
 ![output image]( https://qengineering.eu/images/GStreamer_32_90FPS.webp )<br/>
+
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
